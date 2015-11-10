@@ -1,0 +1,23 @@
+name: machine
+favicon: null
+layout_spectrum: 0.6819905370939523
+typography_spectrum: 0.4315333052072674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9393166892696172
+  lightness: 0.9302636007778347
+  saturation: 0.9624846170190722
+  rhythmicContrast: 0.6027051389683038
+purpose: []
